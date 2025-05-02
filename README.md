@@ -1,0 +1,1 @@
+# SPADE-Smart-Personal-Assistant-for-Daily-Essentials
