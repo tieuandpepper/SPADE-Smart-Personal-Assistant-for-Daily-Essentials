@@ -26,3 +26,9 @@
   * Langchain/Langgraph/Langsmith (need to create langsmith api to monitor the program's responses)
   * Google Gmail/Calendar API service (need credentials files)
   * Conda environment/Python virtual environment: securely store the credentials for Google services or Langsmith's API key.
+
+### How to run
+  * Download an LLM from Ollama (the default is llama3.2)
+    `ollama pull llama3.2`
+  * Run the `assistant.py` script
+    `python3 assistant.py`
